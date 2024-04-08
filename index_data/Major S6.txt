@@ -1,0 +1,130 @@
+The Samsung Galaxy S6 is a line of Android-based smartphones manufactured, released and marketed by Samsung Electronics. Succeeding the Samsung Galaxy S5, the S6 was not released as a singular model, but instead in two variations unveiled and marketed together—the Galaxy S6 and Galaxy S6 Edge—with the latter differentiated primarily by having a display that is wrapped along the sides of the device. It is distinguished from its predecessor through a battery with an increased charging speed but a decreased capacity, an optically stabilized camera, sound in slow motion video recordings, a glass back, and it lacks a user-replaceable battery, a memory card slot, water resistance, and MHL-to-HDMI connection for viewing on an external monitor or television set.
+The S6 and S6 Edge were unveiled on March 1, 2015, during the Samsung Unpacked press event at MWC Barcelona, and released April 10, 2015, marking a counter-utilitarian and fashion-oriented course in the Galaxy S series. During the subsequent Samsung Unpacked event on August 13, 2015 (alongside the Galaxy Note 5), Samsung unveiled a third model, the Galaxy S6 Edge+, which features a larger phablet-sized display (5.7 inches instead of 5.1) and more memory (4 GB instead of 3), but lacks an infrared transmitter used for remote controlling.
+Although the overall design of the Galaxy S6 still features characteristics from prior models, its construction was revamped to use a metal unibody frame and glass backing instead of plastic. Samsung also promoted an improved camera, streamlined user interface, support for major wireless charging standards, and support for a mobile payments platform that allows the device to emulate the magnetic strip from a credit card.
+The Galaxy S6 received mostly positive reviews from critics, who praised the devices' upgraded build quality over prior models, along with improvements to their displays, performance, camera, and other changes. However, Samsung's decision to remove the ability for users to expand their storage using microSD cards or remove the battery, and the lack of water resistance were panned as being potentially alienating to power users, and the S6 Edge was also panned for not making enough use of its curved display to justify its increased cost over the standard model on-launch. It was succeeded by the Samsung Galaxy S7 in March 2016.
+
+
+== Development ==
+
+
+=== Rumors ===
+Rumors surrounding the Galaxy S5's successor began to surface in January 2015, it was reported that Samsung would be using an in-house Exynos system-on-chip rather than the Qualcomm Snapdragon 810 on the S6 due to concerns surrounding overheating. Later that month, Qualcomm affirmed in an earnings report that its products would not be included in "[a] large customer's flagship device". Fellow competitor LG Electronics disputed the allegations surrounding the 810; although demo units of the 810-equipped LG G Flex 2 at Consumer Electronics Show experienced signs of possible overheating, the company emphasized that they were pre-release models.In early-February 2015, Bloomberg News reported that the S6 was to have a metal body, and was to be produced in a normal version, and a version with a screen curved along the left and right sides of the device, similarly to the Galaxy Note Edge. The S6's design was officially teased in a promotional webpage released by T-Mobile US on 22 February 2015, which showed a curved body and carried the tagline "Six Appeal".
+
+
+==== Keynote ====
+Samsung officially unveiled the Galaxy S6 and S6 Edge during the first Samsung Unpacked 2015 event at Mobile World Congress on 1 March 2015, for a release on 10 April 2015 in 20 countries. In Japan, the S6 and S6 Edge are marketed solely under the Galaxy brand, with most references to Samsung removed; sales of Samsung phones have been impacted by historical relations between Japan and South Korea, and a Samsung spokesperson stated that the Galaxy brand was "well-established" in the country.
+
+
+=== Design changes ===
+The Galaxy S6 models are designed to address criticisms and feedback received from prior models, and target the majority of users; during its unveiling, Samsung stated that it had placed a particular focus on design, its camera, and wireless charging. As part of these goals, a number of features and capabilities seen on the Galaxy S5 were removed, such as its waterproofing USB 3.0 port, MicroSD expandable internal storage and Mobile High-Definition Link (MHL).Additionally, the Galaxy S6's battery is no longer user-replaceable; Samsung had been a major holdout from the trend against removable batteries, but argued that due to the S6's fast AC charging and its support of both major wireless charging standards, it no longer needs to provide the ability for users to remove and replace the Lithium-Ion battery.The decision of denying users the replacement of their batteries is claimed to have been postponed throughout the Samsung Galaxy S series until users be "confident about charging their phones", as stated by Justin Denison, then-vice president of product strategy at Samsung, on stage at the Unpacked 2015 Episode 1 keynote event, whereas a mockery commercial for the preceding Galaxy S5 against iPhones' non-replaceable batteries was aired the previous year, referring to its users as "wall huggers", citing their incessant dependence on wall charging.The device's software was also simplified; a Samsung representative stated that 40% of the features in TouchWiz were removed or streamlined in comparison to the S5.
+
+
+=== Galaxy S6 Active ===
+The Samsung Galaxy S6 Active (stylized as SΛMSUNG Galaxy S6 active) is a variant of the Galaxy S6; the S6 Active contains similar specifications, but it also features waterproofing, shockproofing and dustproofing designed around the IP68 specifications, along with a more rugged design and physical navigation buttons instead of touch sensors; it was released on 12 June 2015. In the United States it was only available on the AT&T network.
+The S6 Active was first released in the United States by AT&T on 12 June 2015 in the gray, camo-blue, and camo-white colors; its model number is SM–G890A.
+
+
+== Specifications ==
+
+
+=== Hardware and design ===
+
+
+==== Design ====
+The Galaxy S6 line retains similarities in design to previous models, but now uses a unibody frame made of aluminium alloy 6013 with a glass backing, a curved bezel with chamfered sides to improve grip, and the speaker grille, as well as the 3.5mm headphone connector was moved to the bottom next to the MicroUSB 2.0 type B charging port, located there for the first time in the Samsung Galaxy S series.The devices are available in "White Pearl", "Black Sapphire", and "Gold Platinum" color finishes; additional "Blue Topaz" and "Emerald Green" finishes are exclusive to the S6 and S6 Edge respectively.The Galaxy S6 was also available in a limited Iron Man edition, in promotion of Avengers: Age of Ultron, with six additional colour options.The S6 carries some regressions in its design over the S5; it does not contain a MicroSD card slot, and reverts to a micro-USB 2.0 port from USB 3.0. Both also lack water resistance and use non-removable batteries with decreased sizes.
+
+
+==== Battery ====
+The Galaxy S6 includes a 2550 mAh battery, while the S6 Edge includes a 2600 mAh battery, both non-user-replaceable.
+The Samsung Galaxy S6 and S6 Edge are the first mobile phones in the Samsung Galaxy S series to support Qualcomm Quick Charge 2.0, allowing it to reach charging speeds of up to 15 Watts if used with a compatible charger. However, fast charging is deactivated while the device is in operation.
+
+
+==== Hardware ====
+The Galaxy S6 line is powered by a 64-Bit Exynos 7 Octa 7420 system-on-chip, consisting of four 2.1 GHz Cortex-A57 cores, and four 1.5 GHz Cortex-A53 cores, and 3 GB of LPDDR4 RAM for the S6 and S6 Edge while 4 GB of LPDDR4 for the S6 Edge+, being the first Samsung flagship phones to utilize 64-Bit processing. The processor is Samsung's first to use a 14 nm FinFET manufacturing process, which the company stated would improve its energy efficiency. It is available with 32, 64, or 128 GB of non-expandable storage, implementing Universal Flash Storage 2.0 standards. The S6 and S6 Edge features a 5.1-inch 1440p Super AMOLED display; similarly to the Galaxy Note Edge while the S6 Edge+ features a 5.7-inch 1440p Super AMOLED display, the S6 Edge and S6 Edge+'s display is slightly curved around the two lengthwise edges of the device, although not as aggressively as the Note Edge. It has a screen reflectance of 4.6% and a peak brightness of 784 nits.The Galaxy S6 line supports both the Qi and Power Matters Alliance wireless charging standards.Mobile High-Definition Link (MHL), a feature introduced with the Galaxy S2 in 2011, has been removed from the series with the Galaxy S6.
+Some Galaxy S6 uses an additional Qualcomm MDM9635M modem for CDMA support, such as units for Verizon.
+
+
+==== Cameras ====
+For its rear-facing camera, Galaxy S6 uses the same image sensor (Sony Exmor RS IMX240/Samsung ISOCELL S5K2P2) with optical image stabilization as the Galaxy Note 4, For the first time in a Samsung flagship device, a bundled slow-motion video editor allows viewing custom parts of the recorded footage at adjustable speeds and exporting it for sharing.
+The front-facing camera was also upgraded from 2.1 megapixels to 5 megapixels, supports 1440p video recording for the first time on a Galaxy S series device, and also features an aperture of f/1.9 and being equipped with HDR viewfinder for the first time in a front camera. The fingerprint scanner in the home button now uses a touch-based scanning mechanism rather than swipe-based. Double-pressing the Home button launches the camera app, while it launched S Voice, then Samsung's digital assistant software, on Samsung flagship phones released between 2012 and 2014.Both the front and the rear camera support burst shots at around eight pictures per second, limited to 30 pictures per row.The design of the camera software has been changed. Changes include the introduction of swipe gesture controls for accessing camera modes and gallery and a camera mode selector that is a flat two-row icon+label grid. Additional camera modes can be downloaded. The Android Marshmallow update added manual camera controls.The setting menu is no longer a four-column icon+label grid floating on top of the camera viewfinder, but a list on a separate page. Setting shortcuts are no longer customizable.
+
+
+=== Software ===
+
+
+==== Operating system ====
+The S6 and S6 Edge were initially released running Android 5.0.2 "Lollipop" while the S6 Edge+ was initially released running Android 5.1.1 "Lollipop" with Samsung's TouchWiz software suite. TouchWiz has been streamlined on the S6 with a refreshed, minimal design and fewer bundled applications. Samsung newly allows users to download custom themes. Several Microsoft apps are bundled, including OneDrive, OneNote and Skype.
+
+
+==== Curved edge ====
+On the S6 Edge and S6 Edge+, users can designate up to five contacts for quick access by swiping from one of the edges of the screen. The five contacts are also color-coded; when the device is face down, the curved sides will also glow in the contact's color to signify phone calls. The Night Clock feature from the Galaxy Note Edge was carried over to the Edge models. The heart rate sensor can also be used as a button for dismissing calls and sending the caller a canned text message reply. The Sprint, Verizon, AT&T and T-Mobile versions remove some features available on the unbranded and unlocked version, like Smart Manager, Simple Sharing (only AT&T) and Download Booster (only Sprint and AT&T).
+
+
+==== Accessibility ====
+The single-handed operation mode, an accessibility feature introduced with the 2013 Galaxy Note 3 and available on the Galaxy S5 and Note 4, is present on the S6 Edge Plus while missing on the S6 and S6 Edge. If enabled in the settings, it is accessible with three home button presses rather than a previously used swipe gesture, and shrinks the screen's view port size to facilitate single-handed usage.
+Unlike previously, the viewport size is fixed (not resizeable) and can only be located in two fixed spots in either lower corner rather than being freely movable. The on-screen navigation and volume keys, as well as selected app and contact shortcuts (S5 only) have been removed.
+
+
+==== Samsung Pay ====
+The S6 was the first Samsung device to include Samsung Pay, a mobile payments service developed from the intellectual property of LoopPay, a crowdfunded startup company that Samsung acquired in February 2015. Samsung Pay incorporates technology by LoopPay known as "magnetic secure transmission" (MST); it transmits card data to the pay terminal's swipe slot using an electromagnetic field, causing the terminal to register it as if it were a normally swiped card. LoopPay's developers noted that its system would not share the limitations of other mobile payment platforms, and would work with "nearly 90%" of all point-of-sale units in the United States. The service will also support NFC-based mobile payments alongside MST. Credit card information is stored in a secure token and payments must be authenticated using a fingerprint scan. Samsung Pay was not immediately available upon the release of the S6, but enabled in the middle of 2015.
+
+
+==== Multi-window ====
+While flagship devices since the Galaxy S III support splitting the screen to show two applications simultaneously, the Galaxy S6 is the first Galaxy S series phone to support floating pop-up multi windows. The multi-window user interface is similar to that of the Galaxy Note 4, but applications are launched out of a dedicated split-screen app drawer (accessed through holding the task key or tapping an icon in recent apps drawer) instead of a floating side bar, which means that although floating pop-up windows can float on top of applications not supported by multi-window, the split-screen app launching interface requires an unsupported application to be minimized first in order to be accessed, to allow launching a multi-window supported app.
+Multi-window applications can also be launched by holding down an app listed in the view of recently accessed apps that is accessed using the task key that is located on the left next to the home button.
+
+
+==== Software updates ====
+Samsung began to release Android 6.0.1 "Marshmallow" for the S6 in February 2016. It enables new features such as "Google Now on Tap", which allows users to perform searches within the context of information currently being displayed on-screen, and "Doze", which optimizes battery usage when the device is not being physically handled. On S6 Edge models, the Edge Display feature supports wider panels with a larger amount of functionality similar to those found on the S7 Edge.In March 2017, Samsung began to release Android 7.0 "Nougat" to the S6 series. After the update, the UI was redesigned and it is similar to what the Galaxy S7 also had, except Video Enhancer, Screen Resolution Adjuster, Performance Mode and the ability to take photos while recording video.
+The latest update for the S6 family is based on Android 7.0 "Nougat" with the January 2019 security build.
+
+
+==== Miscellaneous ====
+The Galaxy S6 is the first Samsung flagship device to offer a torch toggle shortcut in the drop-down quick control menu instead of a home screen widget, making it accessible quicker and without having to leave an opened app.
+
+
+== Reception ==
+
+
+=== Critical reception ===
+The Galaxy S6 received a generally positive reaction from early reviewers, noting its higher quality design over previous Samsung devices, along with refinements to its camera, the high quality of its display, and the significantly smaller amount of "bloat" in the device's software. Anandtech believed that the S6's new fingerprint reader was comparable in quality to Apple's Touch ID system. The Verge concluded that the S6 and S6 Edge were "the first time I've felt like Samsung might finally be grappling with the idea of what a smartphone ought to be on an ontological level."Some critics raised concerns over the S6's regressions in functionality over the Galaxy S5, particularly the battery being both smaller in capacity and non-user-replaceable, the missing microSD card slot, and lack of water resistance, arguing that it could alienate power users who were attracted to the Galaxy S series due to their inclusion.Wired felt while its dual-sided curved screen was better-designed than that of the Galaxy Note Edge, the S6 Edge's use of the curved display was a "dramatic step backwards" due to the limited number of edge-specific features available in comparison to the Galaxy Note Edge due to the edge bending into existing screen space rather than extending by 160 pixels. As such, Samsung was criticized for providing no true justification for purchasing the S6 Edge over the non-curved S6, explaining that "it doesn't do anything beyond the base model, but it'll be worth the money to some people because of how it looks and the air of exclusivity it communicates." The Verge was similarly critical, arguing that the additional features were "very forgettable". In regards to performance, The Verge felt that the S6 was the "fastest Android phone I've ever used", and that the company "solved any slowdowns you might experience in Android with brute force."Some users reported issues with the flash on some S6 devices, remaining dimly lit even if the camera is not in use or the device is turned off. Samsung was made aware of the problem, which affects the S6 and S6 Edge, but has not specified when it will be fixed.iFixit upon review of the phone noted it is difficult to repair, as it is using strong adhesive in its rear glass and the battery.In The Verge's review of the S6 Active, it listed six reasons to get the phone rather than the regular S6:
+It is water resistant and shock proof.
+The battery has 37% more capacity than the S6.
+The Active has a button on the left side above the volume rocker that can be configured to launch any app.
+The phone runs cool and sometimes the S6 runs hot.
+It is only $10 more than the normal version.
+It has the same performance and camera as the S6.As well as listing five reasons to get the S6 rather than the S6 Active:
+
+The Active has a plastic case rather than a metal one.
+The Active does not have a fingerprint scanner.
+The Active only comes in 32 GB and 64 GB models compared to an additional 128 GB variant of the S6.
+The Active is only available through AT&T. (This was only true for the US)
+Firmware and security updates for the S6 Active will be issued less frequently than for the S6.
+
+
+=== Security issues ===
+In November 2015, Google's Project Zero unit publicized eleven "high-impact" security vulnerabilities that it had discovered in Samsung's distribution of Android on the S6. Some of these had already been patched as of their publication.
+
+
+=== Sales ===
+In its first month of sales, 6 million Galaxy S6 and S6 Edge units were sold to consumers, exceeding the number of Galaxy S5 units sold within a similar timeframe, but failing to break the record of 10 million set by the Galaxy S4. Still, facing competition by other vendors that have led to declining market share, a lower net profit, and foreseeing a "difficult business environment" for the second half of the year, Samsung announced during its second quarter earnings report in July 2015 that it would be "adjusting" the price of the S6 and S6 Edge. The company stated that sales of the two devices had a "marginal" effect on its profits. The S6 Edge+ shared almost a similar fate albeit lagging behind the Note 5.
+
+
+== See also ==
+Comparison of Samsung Galaxy S smartphones
+Comparison of smartphones
+Samsung Galaxy S series
+Samsung Galaxy Xcover 3
+Samsung Rugby Smart
+
+
+== Notes ==
+
+
+== References ==
+
+
+== External links ==
+
+Official website
+Galaxy S6 active

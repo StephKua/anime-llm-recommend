@@ -1,0 +1,124 @@
+Hepburn romanization (ヘボン式ローマ字, Hebon-shiki rōmaji, lit. 'Hepburn-style Roman letters') is the main system of romanization for the Japanese language. The system was originally published in 1867 by American Christian missionary and physician James Curtis Hepburn as the standard in the first edition of his Japanese–English dictionary. The system is distinct from other romanization methods in its use of English orthography to phonetically transcribe sounds: for example, the syllable [ɕi] (し) is written as shi and [tɕa] (ちゃ) is written as cha, reflecting their spellings in English (compare to si and tya in the more-systematic Nihon-shiki and Kunrei-shiki systems).
+In 1886, Hepburn published the third edition of his dictionary, codifying a revised version of the system that is known today as "traditional Hepburn". A version with additional revisions, known as "modified Hepburn", was published in 1908.
+Although Kunrei-shiki romanization is the style favored by the Japanese government, Hepburn remains the most popular method of Japanese romanization. It is learned by most foreign students of the language, and is used within Japan for romanizing personal names, locations, and other information, such as train tables and road signs. Because the system's orthography is based on English phonology instead of a systematic transcription of the Japanese syllabary, individuals who do not speak Japanese will generally be more accurate when pronouncing unfamiliar words romanized in the Hepburn style compared to other systems.
+
+
+== History ==
+In 1867, American Presbyterian missionary doctor James Curtis Hepburn published the first Japanese–English dictionary, in which he introduced a new system for the romanization of Japanese into Latin script. He published a second edition in 1872 and a third edition in 1886, which introduced minor changes. The third edition's system had been adopted in the previous year by the Rōmaji-kai (羅馬字会, "Romanization Club"), a group of Japanese and foreign scholars who promoted a replacement of the Japanese script with a romanized system.Hepburn romanization, loosely based on the conventions of English orthography (spelling), stood in opposition to Nihon-shiki romanization, which had been developed in Japan in 1881 as a script replacement. Compared to Hepburn, Nihon-shiki is more systematic in its representation of the Japanese syllabary (kana), as each symbol corresponds to a phoneme. However, the notation requires further explanation for accurate pronunciation by non-Japanese speakers: for example, the syllables [ɕi] and [tɕa], which are written as shi and cha in Hepburn, are rendered as si and tya in Nihon-shiki. After Nihon-shiki was presented to the Rōmaji-kai in 1886, a dispute began between the supporters of the two systems, which resulted in a standstill and an eventual halt to the organization's activities in 1892.After the Russo-Japanese War of 1904–1905, the two factions resurfaced as the Rōmaji Hirome-kai (ローマ字ひろめ会, "Society for the Spread of Romanization"), which supported Hepburn's style, and the Nihon no Rōmaji-sha (日本のローマ字社, "Romanization Society of Japan"), which supported Nihon-shiki. In 1908, Hepburn was revised by educator Kanō Jigorō and others of the Rōmaji Hirome-kai, which began calling it the Shūsei Hebon-shiki (修正ヘボン式, "modified Hepburn system") or Hyōjun-shiki (標準式, "standard system").In 1930, a Special Romanization Study Commission, headed by the Minister of Education, was appointed by the government to devise a standardized form of romanization. The Commission eventually decided on a slightly modified "compromise" version of Nihon-shiki, which was chosen for official use by cabinet ordinance on September 21, 1937; this system is known today as Kunrei-shiki romanization. On September 3, 1945, at the beginning of the occupation of Japan after World War II, Supreme Commander for the Allied Powers Douglas MacArthur issued a directive mandating the use of modified Hepburn by occupation forces. The directive had no legal force, however, and a revised version of Kunrei-shiki was reissued by cabinet ordinance on December 9, 1954, after the end of occupation.Although it lacks de jure status, Hepburn remains the de facto standard for some applications in Japan. As of 1977, many government organizations used Hepburn, including the Ministry of International Trade and Industry; the Ministry of Foreign Affairs requires the use of Hepburn on passports, and the Ministry of Land, Infrastructure and Transport requires its use on transport signs, including road signs and railway station signs. According to a survey by the Japanese Agency for Cultural Affairs in 2022, the Japanese primarily use Hepburn to spell place names.
+Hepburn is also used by private organizations, including The Japan Times and the Japan Travel Bureau.American National Standard System for the Romanization of Japanese (ANSI Z39.11-1972), based on modified Hepburn, was approved in 1971 and published in 1972 by the American National Standards Institute. In 1989, it was proposed for International Organization for Standardization (ISO) standard 3602, but was rejected in favor of Kunrei-shiki. ANSI Z39.11-1972 was deprecated as a standard in 1994.In January 2024, the Cultural Affairs Agency proposed revising the 1954 Cabinet ordinance to make Hepburn the standard romanization system of Japan.
+
+
+== Variants ==
+There are many variants of the Hepburn romanization. The two most common styles are as follows:
+
+Traditional Hepburn, as defined in various editions of Hepburn's dictionary, with the third edition (1886) often considered authoritative (although changes in kana usage must be accounted for). It is characterized by the rendering of syllabic n as m before the consonants b, m and p: for example, Shimbashi for 新橋.
+Modified Hepburn, also known as Revised Hepburn, in which (among other changes) the rendering of syllabic n as m before bilabial consonants is no longer used: Shinbashi for 新橋. The version of the system published in the third (1954) and later editions of Kenkyusha's New Japanese-English Dictionary are often considered authoritative; it was adopted in 1989 by the Library of Congress as one of its ALA-LC romanizations, and is the most common variant of Hepburn romanization used today.In Japan itself, there are some variants officially mandated for various uses:
+
+Railway Standard (鉄道掲示基準規程, Tetsudō Keiji Kijun Kitei), which mostly follows Modified Hepburn, except syllabic n is rendered as in Traditional. Japan Railways and other major railways use it for station names.
+Road Sign Romaji (Hepburn) (道路標識のローマ字（ヘボン式), Dōrohyōji no rōmaji (Hebonshiki)), used for road signs, which otherwise follows Modified Hepburn closely but specifies that macrons are not to be used.
+Ministry of Foreign Affairs Passport Standard (外務省旅券規定, Gaimushō Ryoken Kitei), a permissive standard that renders the syllabic n as m before b, m and p. Most of the long vowels are not rendered. Moreover, this standard explicitly allows the use of "non-Hepburn romaji" (非ヘボン式ローマ字, hi-Hebon-shiki rōmaji) in personal names, notably for passports. In particular, the long vowel ō can be romanized oh, oo or ou (Satoh, Satoo or Satou for 佐藤).Details of the variants can be found below.
+
+
+=== Obsolete variants ===
+The romanizations set out in the first and second versions of Hepburn's dictionary are primarily of historical interest. Notable differences from the third and later versions include:
+
+
+== Features ==
+The main feature of Hepburn is that its orthography is based on English phonology. More technically, when syllables that are constructed systematically according to the Japanese syllabary contain an "unstable" consonant in the modern spoken language, the orthography is changed to something that better matches the real sound as an English-speaker would pronounce it. For example, し is written shi not si. This transcription is thus only partly phonological.
+Some linguists such as Harold E. Palmer, Daniel Jones and Otto Jespersen object to Hepburn since the pronunciation-based spellings can obscure the systematic origins of Japanese phonetic structures, inflections, and conjugations. Since the vowel sounds in Hepburn are similar to the vowel sounds in Italian, and the consonants similar to those of many other languages, in particular English, speakers unfamiliar with Japanese will generally be more accurate when pronouncing unfamiliar words romanized in the Hepburn style compared to other systems.
+
+
+=== Long vowels ===
+In Hepburn, vowel combinations that form a long sound are usually indicated with a macron (◌̄). Other adjacent vowels, such as those separated by a morpheme boundary, are written separately:
+
+All other vowel combinations are always written separately:
+
+E + I: 制(せい)服(ふく) – sei + fuku – seifuku 'uniform' (despite E + I is often pronounced as a long E)
+U + I: 軽(かる)い – karu + i – karui 'light (in weight)'
+O + I: 甥(おい) – oi – oi 'nephew'
+
+
+==== Loanwords ====
+In foreign loanwords, long vowels followed by a chōonpu (ー) are indicated with macrons:
+
+セーラー: se + (ー) + ra + (ー) = sērā 'sailor'
+タクシー: ta + ku + shi + (ー) = takushī 'taxi'
+コンクール: ko + n + ku + (ー) + ru = konkūru 'competition'
+バレーボール: ba + re + (ー) + bo + (ー) + ru = barēbōru 'volleyball'
+ソール: so + (ー) + ru = sōru 'sole (of a shoe, etc.)'Adjacent vowels in loanwords are written separately:
+
+バレエ: ba + re + e – baree 'ballet'
+ミイラ: mi + i + ra – miira 'mummy'
+ソウル: so + u + ru – souru 'soul', 'Seoul'
+
+
+==== Variations ====
+There are many variations on the Hepburn system for indicating long vowels with a macron. For example, 東京 (とうきょう) is properly romanized as Tōkyō, but can also be written as:
+
+Tokyo – not indicated at all. Common for Japanese words that have been adopted into English, and the de facto convention for Hepburn used in signs and other English-language information around Japan.
+Tôkyô – indicated with circumflex accents, as in the alternative Nihon-shiki and Kunrei-shiki romanizations. They are often used when macrons are unavailable or difficult to input, due to their visual similarity.
+Tohkyoh – indicated with an h (only applies after o). This is sometimes known as "passport Hepburn", as the Japanese Foreign Ministry has authorized (but not required) it in passports.
+Toukyou – written using kana spelling: ō as ou or oo (depending on the kana). This is also known as wāpuro style, as it reflects how text is entered into a Japanese word processor by using a keyboard with Roman characters. Wāpuro more accurately represents the way that ō is written in kana by differentiating between おう (as in とうきょう (東京), Toukyou in wāpuro) and おお (as in とおい (遠い), tooi in wāpuro); however, it fails to differentiate between long vowels and vowels separated by a morpheme boundary.
+Tookyoo – written by doubling the long vowels. Some dictionaries such as the Pocket Kenkyusha Japanese Dictionary and Basic English Writers' Japanese-English Wordbook follow this style, and it is also used in the JSL form of romanization.
+
+
+=== Particles ===
+In traditional and modified:
+
+When は is used as a particle, it is written wa.In traditional Hepburn:
+
+When へ is used as a particle, Hepburn originally recommended ye. This spelling is obsolete, and it is commonly written as e (Romaji-Hirome-Kai, 1974).
+When を is used as a particle, it is written wo.In modified Hepburn:
+When へ is used as a particle, it is written e.
+When を is used as a particle, it is written o.
+
+
+=== Syllabic n ===
+In traditional Hepburn:
+Syllabic n (ん) is written as n before consonants, but as m before labial consonants: b, m, and p. It is sometimes written as n- (with a hyphen) before vowels and y (to avoid confusion between, for example, んあ n + a and な na, and んや n + ya and にゃ nya), but its hyphen usage is not clear.案内（あんない）: annai – guide
+群馬（ぐんま）: Gumma – Gunma
+簡易（かんい）: kan-i – simple
+信用（しんよう）: shin-yō – trustIn modified Hepburn:
+The rendering m before labial consonants is not used and is replaced with n. It is written n' (with an apostrophe) before vowels and y.案内（あんない）: annai – guide
+群馬（ぐんま）: Gunma – Gunma
+簡易（かんい）: kan'i – simple
+信用（しんよう）: shin'yō – trust
+
+
+=== Long consonants ===
+Elongated (or "geminate") consonant sounds are marked by doubling the consonant following a sokuon, っ; for consonants that are digraphs in Hepburn (sh, ch, ts), only the first consonant of the set is doubled, except for ch, which is replaced by tch.
+結果（けっか）: kekka – result
+さっさと: sassato – quickly
+ずっと: zutto – all the time
+切符（きっぷ）: kippu – ticket
+雑誌（ざっし）: zasshi – magazine
+一緒（いっしょ）: issho – together
+こっち: kotchi (not kocchi) – this way
+抹茶（まっちゃ）: matcha (not maccha) – matcha
+三つ（みっつ）: mittsu – three
+
+
+== Romanization charts ==
+Each entry contains hiragana, katakana, and Hepburn romanization, in that order.
+† — The characters in red are historical characters and are obsolete in modern Japanese. In modern Hepburn romanization, they are often undefined.
+‡ — The characters in blue are rarely used outside of their status as a particle in modern Japanese, and romanization follows the rules above.
+
+
+=== Extended katakana ===
+These combinations are used mainly to represent the sounds in words in other languages.
+Digraphs with orange backgrounds are the general ones used for loanwords or foreign places or names, and those with blue backgrounds are used for more accurate transliterations of foreign sounds, both suggested by the Cabinet of Japan's Ministry of Education, Culture, Sports, Science and Technology. Katakana combinations with beige backgrounds are suggested by the American National Standards Institute and the British Standards Institution as possible uses. Ones with purple backgrounds appear on the 1974 version of the Hyōjun-shiki formatting.
+* — The use of ウ in these two cases to represent w is rare in modern Japanese except for Internet slang and transcription of the Latin sound [w] into katakana. E.g.: ミネルウァ (Mineruwa "Minerva", from Latin MINERVA [mɪˈnɛrwa]); ウゥルカーヌス (Wurukānusu "Vulcan", from Latin VVLCANVS, Vulcānus [wʊlˈkaːnʊs]). The wa-type of foreign sounds (as in watt or white) is usually transcribed to ワ (wa), while the wu-type (as in wood or woman) is usually to ウ (u) or ウー (ū).
+⁑ — ヴ has a rarely used hiragana form in ゔ that is also vu in Hepburn romanization systems.
+⁂ — The characters in green are obsolete in modern Japanese and very rarely used.
+
+
+== See also ==
+List of ISO romanizations
+
+
+== References ==
+
+
+== External links ==
+Preface of first edition of Hepburn's original dictionary, explaining romanization
+Preface of third edition of Hepburn's original dictionary, explaining romanization
