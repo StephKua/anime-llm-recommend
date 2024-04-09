@@ -5,6 +5,10 @@ import streamlit as st
 from pathlib import Path
 from llama_index.core import VectorStoreIndex, SimpleDirectoryReader
 from sklearn.neighbors import NearestNeighbors
+import chromadb
+from llama_index.vector_stores.chroma import ChromaVectorStore
+from llama_index.core import StorageContext
+
 
 @st.cache_resource(show_spinner=False)
 def load_data():
@@ -77,8 +81,36 @@ def recommend(interested_title: str, anime_pivot: pd.DataFrame):
 
 @st.cache_resource(show_spinner=False)
 def load_index():
+    db = chromadb.PersistentClient(path="./chroma_db")
+
+    if db.list_collections()[0].name == "anime_db":
+        # Collection exists, return it
+        chroma_collection = db.get_collection("anime_db")
+        exist = True
+    else:
+        # Collection doesn't exist, create it
+        chroma_collection = db.create_collection("anime_db")
+        exist = False
+        # You can optionally perform additional operations here
+    
+    vector_store = ChromaVectorStore(chroma_collection=chroma_collection)
+    storage_context = StorageContext.from_defaults(vector_store=vector_store)
+
     with st.spinner(text="Indexing data"):
         reader = SimpleDirectoryReader(input_dir="./index_data")
         docs = reader.load_data()
-        index = VectorStoreIndex.from_documents(docs, show_progress=True)
+
+
+        if exist:
+
+            index = VectorStoreIndex.from_vector_store(
+                vector_store, show_progress=True, storage_context=storage_context
+            )
+
+        else:
+
+            index = VectorStoreIndex.from_documents(
+                docs, show_progress=True, storage_context=storage_context
+            )
+
         return index
