@@ -1,0 +1,12 @@
+streamlit
+llama-index
+nltk
+pandas
+pyarrow
+fastparquet
+ollama
+requests
+llama-index-llms-ollama
+scipy
+llama-index-embeddings-huggingface
+tqdm
