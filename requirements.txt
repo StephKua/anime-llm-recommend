@@ -12,4 +12,3 @@ llama-index-embeddings-huggingface
 tqdm
 llama-index-vector-stores-chroma
 chromadb
-pysqlite3-binary
