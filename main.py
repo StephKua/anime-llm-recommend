@@ -1,3 +1,6 @@
+__import__('pysqlite3')
+import sys
+sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
 import streamlit as st
 from llama_index.core import Settings
 from llama_index.core.embeddings import resolve_embed_model
@@ -5,9 +8,6 @@ from llama_index.llms.ollama import Ollama
 from utils.util import load_data, get_wiki_data, load_index, recommend
 import os
 from tqdm import tqdm
-__import__('pysqlite3')
-import sys
-sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
 
 st.header("What is your favorite anime? I will recommend 5 others for you.")
 st.sidebar.title("How to use?")
