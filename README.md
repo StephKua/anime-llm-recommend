@@ -34,6 +34,6 @@ streamlit run main.py
 
 6. Enter your favorite anime and look for the recommendation
 
-```
-enter your favourite anime and look at the recommendation
-```
+# Sample Results
+![Screenshot from 2024-04-09 23-06-43](https://github.com/StephKua/anime-llm-recommend/assets/19550237/97986d6d-2747-4d87-be9c-a6b9773937ec)
+
