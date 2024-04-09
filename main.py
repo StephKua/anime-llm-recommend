@@ -5,6 +5,9 @@ from llama_index.llms.ollama import Ollama
 from utils.util import load_data, get_wiki_data, load_index, recommend
 import os
 from tqdm import tqdm
+__import__('pysqlite3')
+import sys
+sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
 
 st.header("What is your favorite anime? I will recommend 5 others for you.")
 st.sidebar.title("How to use?")
