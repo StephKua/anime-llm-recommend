@@ -87,8 +87,9 @@ def recommend(interested_title: str, anime_pivot: pd.DataFrame):
 @st.cache_resource(show_spinner=False)
 def load_index():
     db = chromadb.PersistentClient(path="./chroma_db")
+    db_collection = db.list_collections()
 
-    if db.list_collections()[0].name == "anime_db":
+    if len(db_collection) != 0:
         # Collection exists, return it
         chroma_collection = db.get_collection("anime_db")
         exist = True
